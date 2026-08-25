@@ -2,7 +2,7 @@
 
 **Advanced AI Personal Assistant** — A powerful, voice-controlled, multi-modal AI agent inspired by Iron Man's JARVIS.
 
-Built on the Mark-XXXIX-OR foundation, VxH Jarvis brings intelligent automation, computer control, real-time web capabilities, and persistent memory to your desktop.
+VxH Jarvis brings intelligent automation, computer control, real-time web capabilities, and persistent memory to your desktop.
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
@@ -127,7 +127,7 @@ Licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC
 
 ## Credits
 
-Based on the excellent **Mark-XXXIX-OR** project by [FatihMakes](https://github.com/FatihMakes).
+Based on the excellent **VxH Jarvis** project by [YASHXCHI](https://github.com/roardiamond).
 
 Enhanced and maintained as **VxH Jarvis**.
 
